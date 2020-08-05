@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is David Lopes
+
+- 🔭 I work at [Dynatrace](https://dynatrace.com) as an extensions architect
+- 🌱 I’m currently learning Angular and Rust
+- ⚡ Fun fact: I live in Brazil and can play the Saxophone
+
+
+
+![David's github stats](https://github-readme-stats.vercel.app/api?username=dlopes7&count_private=true&show_icons=true)
+
 <!--
 **dlopes7/dlopes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
