@@ -1,8 +1,8 @@
 ### Hi there, I'm David Lopes 👋
 
 - 🔭 I work at [Dynatrace](https://dynatrace.com) as an extensions architect
-- 🌱 I’m currently learning Angular and Rust
-- ⚡ Fun fact: I live in Brazil and can play the Saxophone
+- 🌱 I’m currently learning React and Rust
+- ⚡ Fun fact: I live in Brazil and can play the Saxophone. I play PLD/SMN in FFXIV
 
 ### Connect with me:
 
